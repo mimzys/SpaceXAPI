@@ -16,14 +16,15 @@ const styleList = {
 
 const styleDetails = {
   position: 'fixed',
-  left: '33%',
-  top: '19%',
+  left: '64%',
   padding: '25px',
   margin: '25px',
-  width: '58%',
+  width: '50%',
   border: '5px solid green',
   borderRadius: '10px',
-  fontSize: '1.25rem'
+  fontSize: '1.25rem',
+  top: '50%',
+  transform: 'translate(-50%, -50%)'
 }
 
 
